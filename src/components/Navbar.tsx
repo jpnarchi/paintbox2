@@ -29,9 +29,9 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-20">
           <div className="flex-shrink-0">
             <Link to="/" className="flex items-center">
-              {/* Replace this comment with your image path */}
+              {/src/logo.webp}
               <img 
-                src="/path-to-your-logo.png" 
+                src="/src/logo.webp" 
                 alt="PaintBOX" 
                 className="h-8 w-auto"
               />
